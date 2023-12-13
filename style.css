@@ -35,12 +35,11 @@ body {
 }
 
 input {
-    padding: 8px;
     margin-right: 8px;
     border: 0;
     outline: 0;
     background: #ebfffc;
-    color: rgb(145, 77, 77);
+    color: rgb(25, 1, 1);
     padding: 10px 10px;
     height: 25px;
     border-radius: 30px;
@@ -75,5 +74,6 @@ button:hover {
 .weather-info {
     font-size: 18px;
     font-weight: bold; 
-    color: #333;
+    color: #222020;
+    margin-top: 10px;
 }
