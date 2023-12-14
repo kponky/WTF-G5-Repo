@@ -58,7 +58,7 @@ button {
 
     border: 0;
     outline: 0;
-    background: #0aecca;
+    background: #06d5b6;
     padding: 10px;
     border-radius: 10px;
     /* width: 60px; */
@@ -68,12 +68,15 @@ button {
 }
 
 button:hover {
-    background-color: #2980b9;
+    background-color: #034a47;
+    color: #fff;
 }
 
 .weather-info {
-    font-size: 18px;
+    font-size: 20px;
     font-weight: bold; 
-    color: #222020;
-    margin-top: 10px;
+    color: #160e0e;
+    margin-top: 15px;
 }
+
+

@@ -1,9 +1,9 @@
-##Group 5 tsk repositiory
+## Group 5 task repositiory
 
-this is group 5 weather task app 
+This is group 5 weather task app 
 Task done by;
 
--Abasi-ikponke E. Asuquo
+-Abasi-ikponke E. Asuquo (Asuquo Edet)
 
 -Awosode Folayemi
 
@@ -20,6 +20,5 @@ Task done by;
 -Eunice Imo
 
 -Rafiat Bamimore Akodu
-
 
 -Abdulrauf Bilqees Olajumoke
